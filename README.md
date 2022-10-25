@@ -1,4 +1,4 @@
-![H2invent Logo](H2-invent.png)
+![H2invent Logo](h2invent_logo.png)
 
 __Wir bieten Ihnen den Zugang zu individualisierten Hightechprozessen und Technologien aus Großkonzernen. Wir verlieren dabei weder die Agilität noch die Integrität eines regionalen Unternehmens.__
 
